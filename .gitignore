@@ -10,7 +10,6 @@ npm-debug.log
 !typings/*.d.ts
 !examples/**/*.js
 coverage
-bundles
 
 .idea
 .project
