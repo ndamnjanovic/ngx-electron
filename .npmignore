@@ -6,8 +6,6 @@ tests
 examples
 .github
 coverage
-!*.metadata.json
-!bundles/*.js
 .idea
 .project
 .settings
